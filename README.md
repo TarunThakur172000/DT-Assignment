@@ -150,8 +150,16 @@ http://localhost:3000
   DELETE /api/v3/app/events/:id
 ```
 
+
 #### Responses
 ```
 200 OK -> Event Deleted successfully
 404 Not Found -> Event not found
+```
+
+#### Uses Of Ai in This Project
+```
+Every Signle line of code of this assignment and logic is build by myself.
+I use AI in some area where I confused Like to create a .gitignore for node js project.
+Understand the project and project structure only.
 ```
