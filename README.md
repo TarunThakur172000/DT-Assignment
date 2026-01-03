@@ -16,7 +16,7 @@ The project focuses on clear API design, disciplined scope control, and predicta
 * Clone the repository
 
 ```
-git clone <repository-url>
+git clone https://github.com/TarunThakur172000/DT-Assignment
 ```
 
 * Navigate to the project directory
